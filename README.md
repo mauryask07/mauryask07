@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a **Senior Software Engineer** with extensive 
 ## 🌟 Notable Projects
 
 ### 🌱 Environmental Protection Platform
-- **Description:** Designed an end-to-end solution for Sacred Groves ([https://www.sacredgroves.earth/](https://www.sacredgroves.earth/)) monitoring climate impact using geospatial data and advanced analytics.
+- **Description:** Designed an end-to-end solution for [Sacred Groves](https://www.sacredgroves.earth/) monitoring climate impact using geospatial data and advanced analytics.
 - **Highlights:**
   - Developed algorithms for terrain analysis with 99.5% accuracy.
   - Visualized environmental impacts using interactive maps built with the **Folium** library.
