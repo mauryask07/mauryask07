@@ -11,29 +11,7 @@ Welcome to my GitHub profile! I'm a **Senior Software Engineer** with extensive 
 - ⚡ Experienced in containerization with **Docker** and orchestration with **Kubernetes**.
 - 🌍 Passionate about leveraging technology for environmental protection and innovative problem-solving.
 
----
 
-## 🛠️ Technologies & Tools
-
-### Programming & Scripting:
-- **Python** | R Programming
-
-### Databases:
-- **PostgreSQL**, **MSSQL**, **MongoDB**
-
-### Cloud & DevOps:
-- **Azure**, **Docker**, **Kubernetes**, **CI/CD Pipelines**
-
-### Machine Learning & AI:
-- **Generative AI**, **Computer Vision**, **NLP**, **Prompt Engineering**
-
-### Frameworks & Libraries:
-- **Flask**, **Streamlit**, **PyTorch**, **OpenCV**
-
-### Others:
-- **Agile Development**, **REST APIs**, **Information Retrieval**
-
----
 
 ## 🌟 Notable Projects
 
@@ -73,6 +51,30 @@ Welcome to my GitHub profile! I'm a **Senior Software Engineer** with extensive 
 - **Highlights:**
   - Conducted fine-tuning and model adjustments to improve fraud detection efficiency.
   - Reduced processing time for fraud identification while maintaining high accuracy.
+
+---
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming & Scripting:
+- **Python** | R Programming
+
+### Databases:
+- **PostgreSQL**, **MSSQL**, **MongoDB**
+
+### Cloud & DevOps:
+- **Azure**, **Docker**, **Kubernetes**, **CI/CD Pipelines**
+
+### Machine Learning & AI:
+- **Generative AI**, **Computer Vision**, **NLP**, **Prompt Engineering**
+
+### Frameworks & Libraries:
+- **Flask**, **Streamlit**, **PyTorch**, **OpenCV**
+
+### Others:
+- **Agile Development**, **REST APIs**, **Information Retrieval**
 
 ---
 
